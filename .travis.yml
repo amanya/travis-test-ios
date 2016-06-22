@@ -1,0 +1,2 @@
+language: objective-c
+script: echo "Look ma! Running on a Mac!"
