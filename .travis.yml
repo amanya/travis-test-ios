@@ -1,4 +1,4 @@
 language: objective-c
-script: rvm list && ruby --version
-#before_install: rvm install ruby-2.2.2
+script: rvm list && rvm use ruby-2.2.2 && ruby --version
+before_install: rvm install ruby-2.2.2
 
